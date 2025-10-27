@@ -1,0 +1,74 @@
+---
+title: "Welcome to R-Ladies St. Louis"
+subtitle: "Efficient File Management in R with {fs}"
+date: "October 29, 2025"
+format: rladies-revealjs
+self-contained: true
+---
+
+# Materials for today
+
+Materials for today can be found at [https://github.com/jadeynryan/fs-rladies-sl](https://github.com/jadeynryan/fs-rladies-sl)
+
+<br>
+
+To follow along today you will need the following things:
+
+- RStudio and R 
+- Packages: fs, stringr, janitor
+
+
+# What is R-Ladies? {.smaller}
+
+-   R-Ladies is a world-wide organization with the mission of promoting **gender diversity in the R community**
+
+-   Started in San Francisco in 2012 and now has **225 chapters** globally (check out [rladies.org](https://rladies.org/) for more information)
+
+-   R-Ladies is rebranding to `R-Ladies+` in order to be more inclusive of all underrepresented genders in the R community. You can read more about this transition [here](https://rladies.org/news/rebranding-rladies/).
+
+![](img/rladies2023.jpg){fig-align="center"}
+
+# R-Ladies St. Louis
+
+Started in September 2017 by Jenine Harris and Chelsea West
+
+<br>
+
+Co-organizers for **`2025-26`** include:
+
+-   Jenine Harris (Washington University)\
+-   Mary Painter (University of Colorado, Boulder)\
+-   Shelly Cooper (Washington University)\
+-   Crystal Lewis (Freelance Data Management Consultant)\
+-   Laura Rose (Hinge Health)
+
+# Announcements
+
+-   We will be recording this talk
+
+    -   Feel free to turn off your cameras if you do not want to be recorded
+
+-   Use the chat to ask questions (to everyone **or** directly to the host)
+
+<br>
+
+::: announce
+Code of Conduct  
+https://rladies.org/coc/
+:::
+
+# Want to learn more or get involved?
+
+Visit **rladies.org** to learn about the mission and global work of R-Ladies
+
+-   Email us at [rladiesstl\@gmail.com](mailto:rladiesstl@gmail.com)
+-   Follow us on LinkedIn [\@r-ladies-st-louis](https://www.linkedin.com/company/r-ladies-st-louis/)
+-   RSVP for future talks on [Meetup](https://www.meetup.com/R-Ladies-St-Louis/)
+-   Check out past recorded talks on our [YouTube Channel](https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw/featured)
+- Follow us on [Bluesky](https://bsky.app/profile/r-ladies-stl.bsky.social)
+
+# About today's speaker
+
+- Jadey Ryan is a data scientist with the Washington State Department of Agriculture and an occasional data freelancer.
+- She’s an R enthusiast passionate about building efficient, beautiful data products and decision-support tools, especially with Quarto and Shiny. 
+- When she’s not coding, she enjoys good food, the outdoors, and time with her husband, daughter, and three cats. 
